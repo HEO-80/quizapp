@@ -76,5 +76,5 @@ public class User {
     }
 
     // Agrega métodos adicionales según tus necesidades
-
+    //Nuevos metodos para empezar a trabajar usuarios y roles
 }
